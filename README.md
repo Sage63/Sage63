@@ -1,41 +1,27 @@
-<!-- HEADER -->
-<h1 align="center">⚡ Hey, I'm Janjan ⚡</h1>
+<!-- ╔══════════════════════════════════╗ -->
+<!--           SYSTEM LOGIN            -->
+<!-- ╚══════════════════════════════════╝ -->
+
+<h1 align="center">🌀 Welcome to Janjan.exe 🌀</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Code.+Create.+Repeat.;UI%2FUX+Enjoyer+🎨;Future+Dev+in+Progress+🚀;Anime+%2B+Coding+Energy+🔥" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=650&lines=Initializing+Developer...;Frontend+Mage+Loading...;UI%2FUX+Mode+Activated...;Anime+Energy+100%25+⚡" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="500"/>
 </p>
 
 ---
 
-## 🌀 Enter My World
-<p align="center">
-  <img src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" width="500"/>
-</p>
+<!-- ╔══════════════════════════════════╗ -->
+<!--           PLAYER STATS            -->
+<!-- ╚══════════════════════════════════╝ -->
 
----
-
-## ⚔️ About Me (Anime Mode Activated)
-<p align="center">
-  <img align="right" src="https://media.giphy.com/media/Lny6Rw04nsOOc/giphy.gif" width="200"/>
-</p>
-
-- 🧑‍💻 Leveling up as a **Frontend Developer**
-- 🎨 Crafting **clean + aesthetic UI**
-- 🚀 Currently building my **Professional Portfolio**
-- 🎮 Side quest: surviving bugs and deadlines
-- ⚡ Special skill: Turning ☕ into code
-
----
-
-## 🔥 Tech Arsenal
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,figma" />
-</p>
-
----
-
-## 🎯 Current Missions
-```diff
-+ Redesigning mobile UI 📱
-+ Improving frontend skills ⚡
-+ Building real-world projects 🛠️
+## 🎮 Player Stats
+```yaml
+Name: Janjan
+Class: Frontend Developer ⚡
+Level: Grinding...
+Main Skills: UI Design, React, Creativity
+Side Quest: Debugging at 3AM 🧠
