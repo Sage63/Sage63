@@ -1,30 +1,27 @@
-<!-- PROFILE HEADER -->
-<h1 align="center">Hey there 👋 I'm Janjan 🚀</h1>
-<h3 align="center">💻 Future Dev | 🎨 UI Lover | ⚡ Tech Explorer</h3>
+<!-- ╔══════════════════════════════════╗ -->
+<!--           SYSTEM LOGIN            -->
+<!-- ╚══════════════════════════════════╝ -->
+
+<h1 align="center">🌀 Welcome to Janjan.exe 🌀</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=650&lines=Initializing+Developer...;Frontend+Mage+Loading...;UI%2FUX+Mode+Activated...;Anime+Energy+100%25+⚡" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="500"/>
 </p>
 
 ---
 
-## 🌟 About Me
-- 🔭 Currently working on: **Cool mobile UI & portfolio projects**
-- 🌱 Learning: **Frontend + UI/UX + Real-world dev skills**
-- 🎯 Goal: Build apps that are **clean, smart, and actually useful**
-- ⚡ Fun fact: I fix bugs… then create new ones 😎
+<!-- ╔══════════════════════════════════╗ -->
+<!--           PLAYER STATS            -->
+<!-- ╚══════════════════════════════════╝ -->
 
----
-
-## 🧠 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,figma" />
-</p>
-
----
-
-## 🚀 What I'm Up To
-```diff
-+ Improving mobile UI designs 📱
-+ Building my professional portfolio 💼
-+ Exploring real-world dev workflows ⚙️
+## 🎮 Player Stats
+```yaml
+Name: Janjan
+Class: Frontend Developer ⚡
+Level: Grinding...
+Main Skills: UI Design, React, Creativity
+Side Quest: Debugging at 3AM 🧠
