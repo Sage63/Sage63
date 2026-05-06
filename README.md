@@ -1,16 +1,30 @@
-## Hi there 👋
+<!-- PROFILE HEADER -->
+<h1 align="center">Hey there 👋 I'm Janjan 🚀</h1>
+<h3 align="center">💻 Future Dev | 🎨 UI Lover | ⚡ Tech Explorer</h3>
 
-<!--
-**Sage63/Sage63** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 About Me
+- 🔭 Currently working on: **Cool mobile UI & portfolio projects**
+- 🌱 Learning: **Frontend + UI/UX + Real-world dev skills**
+- 🎯 Goal: Build apps that are **clean, smart, and actually useful**
+- ⚡ Fun fact: I fix bugs… then create new ones 😎
+
+---
+
+## 🧠 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,figma" />
+</p>
+
+---
+
+## 🚀 What I'm Up To
+```diff
++ Improving mobile UI designs 📱
++ Building my professional portfolio 💼
++ Exploring real-world dev workflows ⚙️
